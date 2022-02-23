@@ -60,4 +60,4 @@ gem 'html2slim'
 # slimの導入
 
 gem 'bootstrap'
-# bootstrapの導入
+# bootstrapの導入 #確認
